@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\casba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\casba\\.nuget\\packages"
+    ]
+  }
+}

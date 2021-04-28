@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PrimeiroSistema/1.0.0": {
+        "runtime": {
+          "PrimeiroSistema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeiroSistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
